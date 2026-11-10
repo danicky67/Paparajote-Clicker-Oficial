@@ -37,6 +37,33 @@ y desbloquea nuevas mecánicas.
 - 💾 Guarda tu progreso online.
 - 🎨 Disfruta de una estética inspirada en Murcia.
 
+## 📸 Capturas del juego
+
+### 🍋 ¡Construye tu imperio murciano!
+
+<img src="Captura_Principal_Paparajote_Clicker.png" width="100%">
+
+### 🏆 Logros y mejoras
+
+<table>
+<tr>
+<td align="center" width="65%">
+
+<b>🏆 639 logros por desbloquear</b>
+
+<img src="Captura_Logros_Paparajote_Clicker.png" width="600">
+
+</td>
+<td align="center" width="35%">
+
+<b>🛒 La despensa murciana</b>
+
+<img src="Captura_Tienda_Paparajote_Clicker.png" width="300">
+
+</td>
+</tr>
+</table>
+
 ## 🖥️ Plataformas
 
 | Plataforma | Estado |
