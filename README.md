@@ -1,3 +1,4 @@
+![Portada de Paparajote Clicker](Portada_Paparajote_Clicker_GitHub.png)
 <div align="center">
 
 # 🍋 PAPARAJOTE CLICKER 🍋
